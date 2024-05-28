@@ -1,0 +1,93 @@
+{
+	"title": "toki pona",
+	"cards": [
+		{
+			"question": "a",
+			"answer": "any interjection, used to emphasize a word for emotion"
+		},
+		{
+			"question": "akesi",
+			"answer": "reptile, amphibian, scaly and/or crawling creature"
+		},
+		{
+			"question": "ala",
+			"answer": "No, not, nothing, or simply negation in general. Used to form yes/no questions"
+		},
+		{
+			"question": "alasa",
+			"answer": "hunt, search, or forage. Try to do something"
+		},
+		{
+			"question": "ale",
+			"answer": "all, entirety, everything. When used as a number, 100"
+		},
+		{
+			"question": "anpa",
+			"answer": "bottom, underside, below. lowly, humble, defeat"
+		},
+		{
+			"question": "ante",
+			"answer": "other, altered, modified, changed, difference"
+		},
+		{
+			"question": "anu",
+			"answer": "a participle to seperate multiple possibilities, replacing another participle. Or just the word 'or'."
+		},
+		{
+			"question": "awen",
+			"answer": "stay, remain, pause, protect, keep safe, continue, (when used as a preverb) continue to..."
+		},
+		{
+			"question": "e",
+			"answer": "particle that marks the start of a direct object"
+		},
+		{
+			"question": "en",
+			"answer": "participle that seperates multiple subjects"
+		},
+		{
+			"question": "esun",
+			"answer": "trade, barter, echange, shop, buy. bazaar, fair, place of business, mall"
+		},
+		{
+			"question": "ijo",
+			"answer": "thing, object, matter, phenomonan"
+		},
+		{
+			"question": "ike",
+			"answer": "bad quality, such as: evil, malice, harmful, bad, unpleasant, complicated"
+		},
+		{
+			"question": "ilo",
+			"answer": "tool, implement, machine, device, doohicky, gadget"
+		},
+		{
+			"question": "insa",
+			"answer": "inside, center, middle, internal, midpoint, between"
+		},
+		{
+			"question": "jaki",
+			"answer": "disgusting, unsanitary, toxic, repulsive, rotten"
+		},
+		{
+			"question": "jan",
+			"answer": "human, person, somebody"
+		},
+		{
+			"question": "jelo",
+			"answer": "yellow, amber, golden, basically anything between green-yellow and yellow-orange"
+		},
+		{
+			"question": "jo",
+			"answer": "hold, carry, possess, contain"
+		},
+		{
+			"question": "kala",
+			"answer": "fish, swimming creature, marine animal, sea crature"
+		},
+		{
+			"question": "kalama",
+			"answer": "to produce sound, e.g. thunder, drum, laugh, sing, play an instrument, literally anything that has to do with making noise"
+		}
+	]
+}
